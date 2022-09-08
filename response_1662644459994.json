@@ -1,0 +1,55 @@
+{
+  "isError": false,
+  "data": {
+    "certificateId": 5,
+    "createdAt": "2022-09-08T17:44:45.290528+00:00",
+    "createdBy": "Usman",
+    "materialType": "Others",
+    "materialName": "Oil",
+    "sku": "",
+    "supplierName": "Roshan Packages pvt LTD",
+    "address": "Raiwind, Lahore",
+    "parameters": [
+      {
+        "id": 2,
+        "name": "density",
+        "uom": "kg.m^-3",
+        "min": 9.1,
+        "max": 15.2,
+        "absolute": null
+      },
+      {
+        "id": 3,
+        "name": "weight",
+        "uom": "kg",
+        "min": 125,
+        "max": 130,
+        "absolute": null
+      },
+      {
+        "id": 5,
+        "name": "length",
+        "uom": "mm",
+        "min": 550,
+        "max": 600,
+        "absolute": null
+      },
+      {
+        "id": 4,
+        "name": "color",
+        "uom": "",
+        "min": null,
+        "max": null,
+        "absolute": "Yellow"
+      },
+      {
+        "id": 6,
+        "name": "Breakdown Strength",
+        "uom": "N",
+        "min": 444,
+        "max": 670,
+        "absolute": null
+      }
+    ]
+  }
+}
